@@ -18,6 +18,9 @@ An interactive electrical engineering education game combining circuit simulatio
 
 ![](https://github.com/lucylow/The-Electric-Bathtub-Saw-V/blob/main/The%20Electric%20Bathtub_%20Complete%20the%20Circuit.png?raw=true)
 
+
+![](https://github.com/lucylow/The-Electric-Bathtub-Saw-V/blob/main/ae91009c-cadd-43ba-8c33-d81455b78771.png?raw=true)
+
 ---
 
 # TABLE OF CONTENTS
